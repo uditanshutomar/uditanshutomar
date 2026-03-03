@@ -101,15 +101,21 @@
 
 <br/>
 
-<a href="https://github.com/uditanshutomar/sat-tutor"><img src="https://img.shields.io/badge/SAT--TUTOR-AI--Powered%20SAT%20Prep-FF6A00?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="sat-tutor"/></a>
+<a href="https://github.com/uditanshutomar/FastDuan"><img src="https://img.shields.io/badge/FASTDUAN-3x%20Parallel%20SSSP%20Engine-FF6A00?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" alt="FastDuan"/></a>
+&nbsp;
+<a href="https://github.com/uditanshutomar/genec"><img src="https://img.shields.io/badge/GENEC-LLM%20Code%20Refactoring-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="genec"/></a>
+
+<br/><br/>
+
+<a href="https://github.com/uditanshutomar/CustosaXopenclaw"><img src="https://img.shields.io/badge/CUSTOSA-Prompt%20Injection%20Shield-FF6A00?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="CustosaXopenclaw"/></a>
 &nbsp;
 <a href="https://github.com/uditanshutomar/stream-processing-platform"><img src="https://img.shields.io/badge/STREAM--PROCESSING-Real--Time%20Data%20Engine-333333?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=000000" alt="stream-processing-platform"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/uditanshutomar/digi-assistant"><img src="https://img.shields.io/badge/DIGI--ASSISTANT-AI%20Digital%20Assistant-FF6A00?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" alt="digi-assistant"/></a>
+<a href="https://github.com/uditanshutomar/logistics-platform"><img src="https://img.shields.io/badge/LOGISTICS-Supply%20Chain%20Platform-FF6A00?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000" alt="logistics-platform"/></a>
 &nbsp;
-<a href="https://github.com/uditanshutomar/multitenant-saas-platform"><img src="https://img.shields.io/badge/SAAS--PLATFORM-Multi--Tenant%20Architecture-333333?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" alt="multitenant-saas-platform"/></a>
+<a href="https://github.com/uditanshutomar/sat-tutor"><img src="https://img.shields.io/badge/SAT--TUTOR-AI--Powered%20SAT%20Prep-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="sat-tutor"/></a>
 
 </div>
 
