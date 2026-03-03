@@ -118,7 +118,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/uditanshutomar/logistics-platform"><img src="https://img.shields.io/badge/LOGISTICS-Supply%20Chain%20Platform-FF6A00?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000" alt="logistics-platform"/></a>
+<a href="https://github.com/uditanshutomar/multitenant-saas-platform"><img src="https://img.shields.io/badge/MULTITENANT--SAAS-Kubernetes%20Microservices-FF6A00?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000" alt="multitenant-saas-platform"/></a>
 &nbsp;
 <a href="https://github.com/uditanshutomar/sat-tutor"><img src="https://img.shields.io/badge/SAT--TUTOR-AI--Powered%20SAT%20Prep-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="sat-tutor"/></a>
 
