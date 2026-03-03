@@ -101,23 +101,15 @@
 
 <br/>
 
-<a href="https://github.com/uditanshutomar/sat-tutor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditanshutomar&repo=sat-tutor&bg_color=000000&text_color=888888&icon_color=FF6A00&title_color=FFFFFF&border_color=333333&border_radius=0" alt="sat-tutor"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/uditanshutomar/stream-processing-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditanshutomar&repo=stream-processing-platform&bg_color=000000&text_color=888888&icon_color=FF6A00&title_color=FFFFFF&border_color=333333&border_radius=0" alt="stream-processing-platform"/>
-</a>
+<a href="https://github.com/uditanshutomar/sat-tutor"><img src="https://img.shields.io/badge/SAT--TUTOR-AI--Powered%20SAT%20Prep-FF6A00?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="sat-tutor"/></a>
+&nbsp;
+<a href="https://github.com/uditanshutomar/stream-processing-platform"><img src="https://img.shields.io/badge/STREAM--PROCESSING-Real--Time%20Data%20Engine-333333?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=000000" alt="stream-processing-platform"/></a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/uditanshutomar/digi-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditanshutomar&repo=digi-assistant&bg_color=000000&text_color=888888&icon_color=FF6A00&title_color=FFFFFF&border_color=333333&border_radius=0" alt="digi-assistant"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/uditanshutomar/multitenant-saas-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditanshutomar&repo=multitenant-saas-platform&bg_color=000000&text_color=888888&icon_color=FF6A00&title_color=FFFFFF&border_color=333333&border_radius=0" alt="multitenant-saas-platform"/>
-</a>
+<a href="https://github.com/uditanshutomar/digi-assistant"><img src="https://img.shields.io/badge/DIGI--ASSISTANT-AI%20Digital%20Assistant-FF6A00?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" alt="digi-assistant"/></a>
+&nbsp;
+<a href="https://github.com/uditanshutomar/multitenant-saas-platform"><img src="https://img.shields.io/badge/SAAS--PLATFORM-Multi--Tenant%20Architecture-333333?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000" alt="multitenant-saas-platform"/></a>
 
 </div>
 
@@ -133,17 +125,19 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=uditanshutomar&show_icons=true&bg_color=000000&text_color=FFFFFF&icon_color=FF6A00&title_color=FF6A00&border_color=333333&border_radius=0&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=uditanshutomar&background=000000&border=333333&stroke=333333&ring=FF6A00&fire=F73900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6A00&sideLabels=888888&dates=888888&border_radius=0" alt="Streak Stats" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=uditanshutomar&background=000000&border=333333&stroke=333333&ring=FF6A00&fire=F73900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6A00&sideLabels=888888&dates=888888&border_radius=0" alt="Streak Stats" width="49%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditanshutomar&theme=github_dark" alt="GitHub Stats" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditanshutomar&layout=compact&bg_color=000000&text_color=FFFFFF&icon_color=FF6A00&title_color=FF6A00&border_color=333333&border_radius=0&langs_count=6" alt="Top Languages" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditanshutomar&theme=github_dark" alt="Top Languages by Repo" width="49%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uditanshutomar&theme=github_dark" alt="Top Languages by Commit" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uditanshutomar&bg_color=000000&color=FFFFFF&line=FF6A00&point=F73900&area_color=FF6A00&area=true&title_color=FF6A00&custom_title=CONTRIBUTION%20GRAPH&border_color=333333" alt="Activity Graph" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditanshutomar&theme=github_dark" alt="Contribution Graph" width="100%"/>
 
 </div>
 
