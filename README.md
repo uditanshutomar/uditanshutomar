@@ -22,9 +22,11 @@
 
 <a href="https://www.uditanshu.com"><img src="https://img.shields.io/badge/WEBSITE-uditanshu.com-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Website"/></a>
 &nbsp;
-<a href="mailto:uditanshutomar21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-white?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=333333" alt="Email"/></a>
+<a href="https://linkedin.com/in/uditanshutomar"><img src="https://img.shields.io/badge/LINKEDIN-connect-333333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/BOULDER-CO-888888?style=for-the-badge&logo=googlemaps&logoColor=FF6A00&labelColor=000000&color=333333" alt="Location"/>
+<a href="mailto:uditanshutomar21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-333333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/BOULDER-CO-333333?style=for-the-badge&logo=googlemaps&logoColor=FF6A00&labelColor=000000" alt="Location"/>
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FF6A00?style=for-the-badge&labelColor=000000" alt="Hireable"/>
 
@@ -35,16 +37,19 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Full-stack developer & AI engineer based in Boulder, CO.  │
-│   Building intelligent systems across the stack — from      │
-│   low-level C++ engines to distributed platforms to         │
-│   AI-powered applications.                                  │
-│                                                             │
-│   Currently open to new opportunities.                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   AI/ML Engineer & Platform Architect — CU Boulder.              │
+│                                                                  │
+│   I build high-performance systems: parallel graph engines       │
+│   in C++ (3x speedup, 100M edges/sec), distributed stream       │
+│   processors, LLM-powered dev tools, and AI security proxies.   │
+│                                                                  │
+│   Python · C++ · TypeScript · Go · PyTorch · Kubernetes · AWS   │
+│                                                                  │
+│   Currently open to full-time opportunities.                     │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
