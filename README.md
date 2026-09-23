@@ -1,21 +1,26 @@
 # Uditanshu Tomar
 
-I build distributed systems, AI infrastructure, and developer tools. I work on Kubernetes integrations at **Signadot** and AI agent security at **Custosa**.
+Software engineer working on Kubernetes developer workflows at **Signadot** and AI agent security at **Custosa**. M.S. in Computer Science from CU Boulder.
 
-Foster City, CA · [Email](mailto:uditanshutomar21@gmail.com) · [LinkedIn](https://www.linkedin.com/in/uditanshutomar)
+Open to **backend, platform, and AI infrastructure** engineering roles. Based in Foster City, in the San Francisco Bay Area.
 
-## Selected projects
+[Email](mailto:uditanshutomar21@gmail.com) · [LinkedIn](https://www.linkedin.com/in/uditanshutomar)
 
-- **[Custosa Tools](https://custosa.com/tools.html):** Launched a remote MCP server for schema-level PHI classification, HIPAA-readiness checks, and migration guidance
-- **[FastDuan](https://github.com/uditanshutomar/FastDuan):** Parallel shortest-path engine in C++ and OpenMP, with adaptive delta-stepping and a custom slab allocator
-- **[Stream Processing Platform](https://github.com/uditanshutomar/stream-processing-platform):** Flink-inspired Python system with distributed checkpointing, RocksDB state, and failure recovery
-- **[Custosa](https://github.com/uditanshutomar/CustosaXopenclaw):** Runtime security controls for AI agents, including prompt-injection checks, tool policies, and human approval
-- **[GenEC](https://github.com/uditanshutomar/genec):** Collaborative research combining static analysis, Git history, and LLM reasoning for Java refactoring with verification
+**Working with:** C++, Python, Java, Kubernetes, Kafka, PostgreSQL, and OpenMP
 
-## Tutorials I've written
+## Selected work
 
-- [Testing Dapr Services with Signadot Sandboxes](https://www.signadot.com/docs/tutorials/testing-dapr-services)
-- [Diagnose Failing Tests with Signadot and CodeRabbit](https://www.signadot.com/docs/tutorials/coderabbit-signadot-failing-tests)
+- **[Custosa](https://github.com/uditanshutomar/CustosaXopenclaw):** Runtime controls for AI agents, including tool policies, prompt-injection checks, and human approval. Also launched **[Custosa Tools](https://custosa.com/tools.html)**, a remote MCP server for schema-level PHI classification, HIPAA-readiness analysis, and migration guidance
+- **[FastDuan](https://github.com/uditanshutomar/FastDuan):** Parallel shortest paths in C++ and OpenMP, with adaptive delta-stepping and a custom slab allocator. Includes baseline implementations, correctness checks, and benchmark notes
+- **[Stream Processing Platform](https://github.com/uditanshutomar/stream-processing-platform):** Flink-inspired course project exploring distributed scheduling, checkpoint coordination, RocksDB state, and worker recovery
+- **[GenEC](https://github.com/uditanshutomar/genec):** Collaborative research combining static analysis, Git history, and LLM reasoning for Java refactoring, with deterministic code transformations and verification
+
+## Engineering at Signadot
+
+I turn integration requests into working Kubernetes examples, troubleshoot the full workflow, and write the tutorials.
+
+- **Dapr:** Sandbox routing across service invocation and pub/sub. [Tutorial](https://www.signadot.com/docs/tutorials/testing-dapr-services) · [Merged contribution](https://github.com/signadot/examples/pull/79)
+- **CodeRabbit:** Diagnose failing tests using sandbox runtime evidence. [Tutorial](https://www.signadot.com/docs/tutorials/coderabbit-signadot-failing-tests) · [Merged contribution](https://github.com/signadot/examples/pull/80)
 
 ## Selected achievements
 
