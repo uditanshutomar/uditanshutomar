@@ -2,7 +2,7 @@
 
 **Open to software engineering and AI roles · San Francisco Bay Area**
 
-I build backend and AI infrastructure: Kubernetes developer workflows, runtime controls for AI agents, and distributed systems in Go, Python, and C++. Currently building [Custosa](https://custosa.com) and contributing at [Signadot](https://www.signadot.com). M.S. Computer Science, CU Boulder.
+I build backend and AI infrastructure: Kubernetes developer workflows, runtime controls for AI agents, and distributed systems in Java, Go, and Python. Currently building [Custosa](https://custosa.com) and contributing at [Signadot](https://www.signadot.com). M.S. Computer Science, CU Boulder.
 
 Start here:
 
